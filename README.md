@@ -1,2 +1,2 @@
-# Cpp_Casts
-Simple example of how to use the different cast types in C++.
+# Cpp_VSCode_Configs
+Base files for configuring Visual Studio Code for C++ development and debugging.
